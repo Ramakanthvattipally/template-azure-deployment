@@ -3,7 +3,7 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "storageAccounts_rajeshstore05282024_name": {
-            "defaultValue": "armstore06042023",
+            "defaultValue": "ramstorage04062023",
             "type": "String"
         }
     },
